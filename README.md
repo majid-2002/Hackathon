@@ -4,7 +4,7 @@
 Real-time educational presentation from speech using AI and NLP. This project utilizes real-time speech-to-text and AI to generate dynamic educational presentations with customizable expertise levels, automated study material generation, and Q&A.
 
 # Abstract
-📄[ABSTRACT](https://docs.google.com/document/d/1IC309HfvVrOFv1sVDq7bpsf9sfGOaNVZc8tkdIi20D0/edit?usp=sharing)
+[📄 ABSTRACT](https://docs.google.com/document/d/1IC309HfvVrOFv1sVDq7bpsf9sfGOaNVZc8tkdIi20D0/edit?usp=sharing)
 
 ## Team members
 1. [Aqeel](https://github.com/aqeelshamz)
