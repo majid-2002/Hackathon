@@ -12,8 +12,8 @@ Real-time educational presentation from speech using AI and NLP. This project ut
 3. [Abdul Majid](https://github.com/majid-2002)
 4. [Sai Nath A](https://github.com/sai-na)
 
-## Team Id
-Team id here
+## Team name
+Bit Lords
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
