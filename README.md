@@ -1,6 +1,6 @@
 ![githubpic](https://user-images.githubusercontent.com/126552313/221784874-670cd550-8440-4f18-bc5e-44257752c230.png)
 
-# Project Title
+# Project Ed
 Real-time educational presentation from speech using AI and NLP. This project utilizes real-time speech-to-text and AI to generate dynamic educational presentations with customizable expertise levels, automated study material generation, and Q&A.
 
 # Abstract
@@ -15,10 +15,9 @@ Real-time educational presentation from speech using AI and NLP. This project ut
 ## Team name
 Bit Lords
 ## Link to product walkthrough
-[link to video]
+[Link to video](https://youtu.be/a8TF_7F7iCI)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+We accept
 ## Libraries used
 Library Name - Version
 ## How to configure
