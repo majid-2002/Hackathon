@@ -18,6 +18,14 @@ Bit Lords
 [Link to video](https://youtu.be/a8TF_7F7iCI)
 ## How it Works ?
 We accept
+
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="[http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg](https://youtu.be/a8TF_7F7iCI)"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 ## Libraries used
 Library Name - Version
 ## How to configure
